@@ -1,0 +1,2 @@
+# SparkAI
+AI Assistant app

@@ -15,4 +15,4 @@ Spark AI is an AI assistant app for Android and iPhone.
 - Image Generation
 
 Developer: Prv Sharma
-AI Assistant app
+
